@@ -1,0 +1,240 @@
+
+
+
+
+/** new media 001**/
+
+
+@media screen and (max-width: 768px) {
+
+    nav li span a {
+        margin-left: 0px;
+    }
+
+    .home {
+        display: block;
+        justify-content: center;
+        align-items: center;
+        gap: 10rem;
+
+
+    }
+
+
+    .home .home-content h1 {
+        font-size: 2rem;
+
+
+    }
+
+    .home .swoman {
+        bottom: 10px;
+        height: auto;
+        text-align: center;
+        width: 37%;
+    }
+
+
+    .swoman img {
+        width: 55vw;
+    }
+
+
+
+    .home-content h3 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .social-icons a {
+        text-decoration: none;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 2rem;
+        height: 2rem;
+        font-size: 1rem;
+        border-radius: 50%;
+        margin: -5rem 1.5rem 3rem 0;
+
+    }
+
+
+    /** about **/
+
+
+    .about-contain {
+        display: block;
+        text-align: center;
+
+
+    }
+
+
+    .about .about-contain .php img {
+        height: auto;
+        width: 300px;
+    }
+
+
+
+    /** service**/
+
+    .service-icons {
+        display: block;
+        justify-content: center;
+        align-items: center;
+        gap: 10rem;
+    }
+
+    .service-icons .box {
+        width: 22rem;
+        height: rem;
+        font-size: 1rem;
+        margin: 3rem 1.5rem 3rem 0;
+        text-align: center;
+    }
+
+
+
+    .service-icons .box:hover {
+        transform: scale(1.1) translateY(-5px);
+
+    }
+
+
+    .service-icons .box a {
+        width: 4rem;
+        height: 4rem;
+        font-size: 2rem;
+        margin: 3rem 1rem 3rem 0;
+    }
+
+
+}
+
+
+/** new wtf**/
+
+
+@media screen and (max-width: 800px) {
+
+    nav li span a {
+        margin-left: 0px;
+    }
+
+    .home {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+
+
+    }
+
+
+    .home .home-content h1 {
+        font-size: 3rem;
+
+
+    }
+
+    .home .swoman {
+        bottom: 10px;
+        height: auto;
+        text-align: center;
+        width: 37%;
+    }
+
+
+    .swoman img {
+        width: 40vw;
+    }
+
+
+
+    .home-content h3 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    .social-icons a {
+        text-decoration: none;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        width: 3rem;
+        height: 3rem;
+        font-size: 1rem;
+        border-radius: 50%;
+        margin: -5rem 1.5rem 3rem 0;
+
+    }
+
+
+    /** about **/
+
+
+    .about-contain {
+        display: block;
+        text-align: center;
+
+
+    }
+
+
+    .about .about-contain .php img {
+        margin-left: 170px;
+        height: auto;
+        width: 300px;
+    }
+
+
+
+    /** service**/
+
+    .service-icons {
+        display: block;
+        justify-content: center;
+        align-items: center;
+        gap: 10rem;
+    }
+
+    .service-icons .box {
+        width: 40rem;
+        height: rem;
+        font-size: 1rem;
+        margin: 3rem 1.5rem 3rem 0;
+        text-align: center;
+    }
+
+
+
+    .service-icons .box:hover {
+        transform: scale(1.1) translateY(-5px);
+
+    }
+
+
+    .service-icons .box a {
+        width: 4rem;
+        height: 4rem;
+        font-size: 2rem;
+        margin: 3rem 1rem 3rem 0;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
